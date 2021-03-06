@@ -1,5 +1,4 @@
-{
-"Data":[
+[
       {
          "ID":53,
          "RadioName":"Hi",
@@ -144,7 +143,4 @@
          "RadioWebsite":"http://www.nonstoppunjabi.com/",
          "RadioPic":"url.com/RadioPics/120.png?dt=2515202008:15:14"
       }
-   ],
-   "Message":"72",
-   "Result":1
-}
+   ]
