@@ -3,7 +3,7 @@
       {
          "ID":53,
          "RadioName":"Desi World Radio",
-         "RadioURL":"http://stream.zenolive.com/4mbfcn4mf24tv",
+         "RadioURL":"https://s9-webradio.webradio.de/antenne",
          "RadioDesc":"The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
@@ -12,7 +12,7 @@
       {
          "ID":54,
          "RadioName":"Desi Music Mix",
-         "RadioURL":"http://66.23.234.242:8012/;",
+         "RadioURL":"https://s9-webradio.webradio.de/antenne",
          "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
@@ -21,7 +21,7 @@
       {
          "ID":55,
          "RadioName":"Dhol Radio 24x7",
-         "RadioURL":"http://gill.sukhpal.net:8000/;",
+         "RadioURL":"https://s9-webradio.webradio.de/antenne",
          "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
@@ -30,7 +30,7 @@
       {
          "ID":57,
          "RadioName":"Humsafar Radio Canada",
-         "RadioURL":"http://66.90.104.41:8214/;",
+         "RadioURL":"https://s9-webradio.webradio.de/antenne",
          "RadioDesc":"Radio Humsafar streaming in Hindi, Punjabi, Urdu and English live from Canada.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.radiohumsafar.com",
