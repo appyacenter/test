@@ -2,7 +2,7 @@
    "Data":[
       {
          "ID":53,
-         "RadioName":"Desi World Radio",
+         "RadioName":"D",
          "RadioURL":"https://s9-webradio.webradio.de/antenne",
          "RadioDesc":"The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
          "RadioShortDesc":null,
@@ -11,7 +11,7 @@
       },
       {
          "ID":54,
-         "RadioName":"Desi Music Mix",
+         "RadioName":"D",
          "RadioURL":"https://s9-webradio.webradio.de/antenne",
          "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
          "RadioShortDesc":null,
